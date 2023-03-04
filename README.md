@@ -1,9 +1,9 @@
-<br>😊Olá me chamo Maria Luiza<br/>
-<br>📚 Sou Tec em informática<br/>
-<br>📚Cursando Eng de computação<br/>
-<br> 👩‍💻Programo a Alguns anos em ( Linguagem C, Java)<br/>
-<br>👩‍💻Altualmente estou estudando Java Script, Phyton, e React..<br/>
-<br>👩‍💻Tenho interesse em trabalhar no backend.<br/>
+<br>😊Olá, me chamo Maria Luiza!
+<br>📚 Sou Tec em informática
+<br>📚Cursando Eng de computação
+<br> 👩‍💻Programo a Alguns anos em ( Linguagem C, Java)
+<br>👩‍💻Altualmente estou estudando Java Script, Phyton, e React..
+<br>👩‍💻Tenho interesse em trabalhar no backend.
 
 
 <div align="left">
