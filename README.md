@@ -6,7 +6,6 @@
 <p>👩‍💻Tenho interesse em trabalhar no backend.<p/>
 
 ![Maria Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaLu25&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLu25&hide_progress=true)](https://github.com/MariaLu25/github-readme-stats)
 <div style="display: inline_block"><br>
   <img align="center" alt="Malu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Malu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
