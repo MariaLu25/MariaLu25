@@ -5,7 +5,13 @@
 <p>👩‍💻Altualmente estou estudando Java Script, Phyton, e React..<p/>
 <p>👩‍💻Tenho interesse em trabalhar no backend.<p/>
 
-![Maria Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaLu25&show_icons=true&theme=radical)
+
+<div align="left">
+  <a href="https://github.com/MariaLu25">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaLu25&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLu25&layout=compact&langs_count=7&theme=radical"/>
+</div>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Malu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Malu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
