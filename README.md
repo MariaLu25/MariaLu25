@@ -21,11 +21,14 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
    <img align="center" alt="SQL" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/218635686-f8b56c01-19dd-451e-b787-4ab7d2e9fed2.png">
   <img align="center" alt="Github" height="30" width="30" src="https://user-images.githubusercontent.com/104440384/214586360-9770dad2-d14c-4927-b238-56cffa0409a9.png">
- </div>
+  </div>
+  
+  <br>
+  <div>
   <a href="https://www.instagram.com/_marialu._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:m.luiza.silva.inf33@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-luiza-silva-de-oliveira-63ba58185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
+<br/>
 
