@@ -1,10 +1,11 @@
-- 👋 Hi, I’m  Maria Luiza
-- 👀 I’m interested in Adquirir mais conhecimento e experiência em ser dev... 
-- 🌱 I’m currently learning ...Java Script, e mais sobre o github
-- 💞️ I’m looking to collaborate em projetos que tragam inovaçãoe e acessibilidade- 
+<h1>😊Olá me chamo Maria Luiza<h1/>
+<p>📚 Sou Tec em informática<p/>
+<p>📚Cursando Eng de computação<p/>
+<p> 👩‍💻Programo a Alguns anos em ( Linguagem C, Java)<p/>
+<p>👩‍💻Altualmente estou estudando Java Script, Phyton, e React..<p/>
+<p>👩‍💻Tenho interesse em trabalhar no backend.<p/>
+
+![Maria Luiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaLu25&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaLu25&hide_progress=true)](https://github.com/MariaLu25/github-readme-stats)
 
 
-<!---
-MariaLu25/MariaLu25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
